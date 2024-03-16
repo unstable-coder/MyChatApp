@@ -1,0 +1,49 @@
+.joinPage {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #141313; 
+  }
+  
+  .joincontainer {
+    background-color: #ffffff; 
+    border-radius: 10px;
+    padding: 2rem;
+    width: 30vw;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    text-align: center;
+  }
+  
+  .joincontainer h1 {
+    margin-top: 0;
+    color: rebeccapurple;
+  }
+  
+  #joininput {
+    margin-top: 1rem;
+    width: 90%;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 1.2rem;
+ 
+  }
+  
+  .joinbtn {
+    margin-top: 2rem;
+    width: 100%;
+    padding: 1rem;
+    color: #ffffff;
+    background-color: rebeccapurple;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 1.2rem;
+  }
+  
+  .joinbtn:hover {
+    background-color: #7a506f; 
+  }
+  
